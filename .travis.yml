@@ -1,3 +1,4 @@
+@ -7,21 +7,23 @@ dist: trusty
 jdk: oraclejdk8
 
 env:
